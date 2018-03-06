@@ -11,3 +11,5 @@ huobi.pro
 13****44
 Ja*78*2
 ```
+
+(交易所提币流程)[https://pan.baidu.com/s/1r6bMNrxxqekxerACNwmuUw]
