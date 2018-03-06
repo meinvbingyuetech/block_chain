@@ -12,4 +12,4 @@ huobi.pro
 Ja*78*2
 ```
 
-(交易所提币流程)[https://pan.baidu.com/s/1r6bMNrxxqekxerACNwmuUw]
+[交易所提币流程](https://pan.baidu.com/s/1r6bMNrxxqekxerACNwmuUw)
